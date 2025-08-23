@@ -4,7 +4,7 @@ import re
 from urllib.parse import quote, quote_plus, urlencode
 
     # === Settings === ***************************************
-filename = "payloads"
+filename = "payloads.txt"
 payloads="""
 '
 "
